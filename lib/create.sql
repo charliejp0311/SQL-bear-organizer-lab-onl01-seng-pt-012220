@@ -1,0 +1,6 @@
+CREATE TABLE bears(
+  id TYPE INTEGER PRIMARY KEY,
+  name TYPE TEXT,
+  age TYPE INTEGER,
+
+)
